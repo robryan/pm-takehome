@@ -5,7 +5,7 @@ Trying to hire a good product manager? Assess your candidate with this data-driv
 
 You are a product manager at [Olist (OL)](https://olist.com/), the leading e-commerce platform in Brazil. Olist allows anyone to set up an online store and mobile app to sell their products. Olist also handles shipping from sellers to consumers. It's a healthy profitable business but no longer growing as quickly as it was a few years earlier.
 
-OL's core product is an online store-building tool that allows retailers to pick a custom domain, upload inventory, and manage shipping. New user growth has gradually slowed over the last year but end-user satisfaction is still high. More concerning is that over the last few months, customer churn is up 10% from last year, and there's no obvious change in the product or major bug to point to. 
+OL's core product is an online store-building tool that allows retailers to pick a custom domain, upload inventory, and manage shipping. New seller growth has gradually slowed over the last year but buyer satisfaction is still high. More concerning is that over the last few months, seller churn is up 10% from last year, and there's no obvious change in the product or major bug to point to. 
 
 The top three options the team has come up with are … 
 1. Slowly phase out the online store-building tool and start listing all seller products in one integrated online store run by OL, like Amazon.com
