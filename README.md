@@ -31,14 +31,14 @@ Your engineering team just notified you that the db cluster lost data due to a m
 
 ## Submission and scoring
 
-When you’re ready, submit your work to your recruiter by email. There are many possible correct answers.
+When you’re ready, submit your work to your recruiter by email. There are many possible correct answers. We :x: don’t penalize you for using AI tools, search engines, or code libraries. Don’t commit any crimes, but give us the best submission you can using any tools you can. 
 
 Your answer to Part 1 may be in the form of a brief, slides, a video, a website, or whatever creative format makes sense to you. 📎 **Include a `.zip` file of any code** you wrote to answer Part 1.
 
 Your answer to Part 2 can be plaintext, markdown, or HTML. Imagine the email you're sending to the recruiter is *literally* what OList customers will get, pixel for pixel.
 
 ### Rubric
-We score your case response from 1-10 on multiple dimensions …
+We score your responses from 1-10 on multiple dimensions …
 
 #### Values
 
