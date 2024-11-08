@@ -16,7 +16,7 @@ The top three options the team has come up with are …
 
 ### Part 1
 
-A data analyst on your team pulled together the last few years of order, reviews, and funnel data. (You’ll find [two datasets posted under `/data/`](/data/) and their [documentation under `/docs`)](/docs). <br>
+A data analyst on your team pulled together the last few years of order, reviews, and funnel data. (You’ll find [two datasets posted under `/data/`](/data/) with their documentation as `README`s). <br>
 
 Use the data to diagnose the issue: why are retailers churning? Use your best judgment to propose a solution, choosing from the team’s three options or inventing your own. Lay out the presentation that you’d give the OL team to explain the problem and your solution. Include a plan for the next six (6) weeks of product development and a conservative delivery date for the MVP.
 
