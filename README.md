@@ -1,4 +1,4 @@
-Trying to hire a good product manager? Assess your candidate with this case study of a Brazilian ecommerce product.
+Trying to hire a good product manager? Assess your candidate with this data-driven case.
 
 ![intro-background-rio-de-janiero](/images/intro-bg-rio.jpg)
 ## Trouble in Paradise
@@ -23,6 +23,41 @@ A data analyst on your team pulled together the last few years of order, reviews
 
 Use the data to diagnose the issue: why are retailers churning? Use your best judgment to propose a solution, choosing from the team’s three options or inventing your own. Lay out the presentation that you’d give the OL team to explain the problem and your solution. Include a plan for the next six (6) weeks of product development and a conservative delivery date for the MVP.
 
-## Part 2
+### Part 2
 
 Your engineering team just notified you that the db cluster lost data due to a misapplied migration. You’ve lost all address data for orders placed in the last 96 hours. A growing chorus of customers are logging into OL to print shipping labels … but are seeing an error instead. The OL engineering team says they can reconstruct the lost order data but they need three to five days to work through the problem with a 3rd party logistics vendor. How would you communicate this to users and what would you say, knowing sellers and buyers will both be disappointed? 
+
+<hr> 
+
+## Submission and scoring
+
+When you’re ready, submit your work to your recruiter by email. There are many possible correct answers.
+
+Your answer to Part 1 may be in the form of a brief, slides, a video, a website, or whatever creative format makes sense to you. 📎 **Include a `.zip` file of any code** you wrote to answer Part 1.
+
+Your answer to Part 2 can be plaintext, markdown, or HTML. Imagine the email you're sending to the recruiter is *literally* what OList customers will get, pixel for pixel.
+
+### Rubric
+We score your case response from 1-10 on multiple dimensions …
+
+#### Values
+
+measure | description | score
+-- | -- | -- 
+Curiosity | The candidate doesn’t accept easy answers. They find  surprising insights by asking *“why, why, why …”* a lot.  They ask more questions than other candidates during  the entire process. | [1-10]
+Flexibility | If you disagree with them, they get more pliant, not less  cooperative. They entertain multiple hypotheses at the  same time. | [1-10]
+Simplicity | Given a 50/50 option to add or remove detail, the  candidate prefers to remove. | [1-10]
+
+#### Skills
+measure | description | score
+-- | -- | -- 
+Data | They can pull quant data from multiple sources. They don’t need an analyst to support them. | [1-10]
+Writing | They’re solid at written communication. They adapt to their audience better than other candidates. | [1-10]
+Costing | They can predict software complexity about as well as an engineer. | [1-10]
+
+#### Market experience
+measure | description | score
+-- | -- | -- 
+Marketplace | The candidate has worked at a two-sided marketplace company. | [1-10]
+Artificial intelligence | They have built systems based on NLP, computer vision, fraud detection, LLMs, etc. | [1-10]
+Distributed teams | They’ve worked with a remote workforce before and done  well. | [1-10]
