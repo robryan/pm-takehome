@@ -32,7 +32,7 @@ When you’re ready, submit your work to your recruiter by email. There are many
 
 Your answer to Part 1 may be in the form of a brief, slides, a video, a website, or whatever creative format makes sense to you. 📎 **Include a `.zip` file of any code** you wrote to answer Part 1.
 
-Your answer to Part 2 can be plaintext, markdown, or HTML. Imagine the email you're sending to the recruiter is *literally* what OList customers will get, pixel for pixel.
+Your answer to Part 2 can be plaintext, markdown, or HTML. Imagine the email you're sending to the recruiter is *literally* what Olist customers will get, pixel for pixel.
 
 ### Rubric
 We score your responses from 1-10 on multiple dimensions …

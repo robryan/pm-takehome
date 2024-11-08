@@ -1,25 +1,25 @@
 # About Dataset
-## Marketing Funnel by OList
-Welcome! This is a marketing funnel dataset from sellers that filled-in requests of contact to sell their products on OList Store. The dataset has information of 8k Marketing Qualified Leads (MQLs) that requested contact between Jun. 1st 2017 and Jun 1st 2018. They were randomly sampled from the total of MQLs.
+## Marketing Funnel by Olist
+Welcome! This is a marketing funnel dataset from sellers that filled-in requests of contact to sell their products on Olist Store. The dataset has information of 8k Marketing Qualified Leads (MQLs) that requested contact between Jun. 1st 2017 and Jun 1st 2018. They were randomly sampled from the total of MQLs.
 
 Its features allows viewing a sales process from multiple dimensions: lead category, catalog size, behaviour profile, etc.
 
 This is real data, it has been anonymized and sampled from the original dataset.
 
-### Joining with Brazilian E-Commerce Public Dataset by OList
-This dataset can also be linked to [the Brazilian E-Commerce Public Dataset by OList](/data/orders/) using `seller_id`. There you will find information of 100k orders, price, payment, freight performance, customer location, product attributes and finally reviews written by customers. A quickstart on joining is [available here](https://www.kaggle.com/andresionek/joining-marketing-funnel-with-brazilian-e-commerce).
+### Joining with Brazilian E-Commerce Public Dataset by Olist
+This dataset can also be linked to [the Brazilian E-Commerce Public Dataset by Olist](/data/orders/) using `seller_id`. There you will find information of 100k orders, price, payment, freight performance, customer location, product attributes and finally reviews written by customers. A quickstart on joining is [available here](https://www.kaggle.com/andresionek/joining-marketing-funnel-with-brazilian-e-commerce).
 
 ### Context
-This dataset was generously provided by OList, the largest department store in Brazilian marketplaces. [OList](www.OList.com) connects small businesses from all over Brazil to channels without hassle and with a single contract. Those merchants are able to sell their products through the OList Store and ship them directly to the customers using OList logistics partners. See more on our website: 
+This dataset was generously provided by Olist, the largest department store in Brazilian marketplaces. [Olist](www.Olist.com) connects small businesses from all over Brazil to channels without hassle and with a single contract. Those merchants are able to sell their products through the Olist Store and ship them directly to the customers using Olist logistics partners. See more on our website: 
 
-**A seller joins OList through a marketing and sales funnel.**
+**A seller joins Olist through a marketing and sales funnel.**
 
 #### Steps in marketing funnel
 
 1. Sign-up at a landing page.
 2. Get contacted by a Sales development Representative (SDR), confirm some information and schedule a consultancy.
 3. Consultancy is made by a Sales Representative (SR). 4. The SR may close the deal (lead sing up) or lose the deal (led leaves without sign in)
-5. Lead becomes a seller and starts building his catalog on OList.
+5. Lead becomes a seller and starts building his catalog on Olist.
 6. His products are published on marketplaces and ready to sell!
 
 #### ⚠️ Attention

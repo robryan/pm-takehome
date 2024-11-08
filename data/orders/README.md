@@ -1,6 +1,6 @@
 # About Dataset
-## Brazilian E-Commerce Public Dataset by OList
-Welcome! This is a Brazilian ecommerce public dataset of orders made at OList Store. The dataset has information of 100k orders from 2016 to 2018 made at multiple marketplaces in Brazil. Its features allows viewing an order from multiple dimensions: from order status, price, payment and freight performance to customer location, product attributes and finally reviews written by customers. We also released a geolocation dataset that relates Brazilian zip codes to `lat`/`lng` coordinates.
+## Brazilian E-Commerce Public Dataset by Olist
+Welcome! This is a Brazilian ecommerce public dataset of orders made at Olist Store. The dataset has information of 100k orders from 2016 to 2018 made at multiple marketplaces in Brazil. Its features allows viewing an order from multiple dimensions: from order status, price, payment and freight performance to customer location, product attributes and finally reviews written by customers. We also released a geolocation dataset that relates Brazilian zip codes to `lat`/`lng` coordinates.
 
 This is real commercial data, it has been anonymised, and references to the companies and partners in the review text have been replaced with the names of Game of Thrones great houses.
 
@@ -8,9 +8,9 @@ This is real commercial data, it has been anonymised, and references to the comp
 We have also released [a Marketing Funnel Dataset](/data/marketing-funnel/). You may join both datasets and see an order from Marketing perspective! A quickstart on joining is [available here](https://www.kaggle.com/andresionek/joining-marketing-funnel-with-brazilian-e-commerce).
 
 ### Context
-This dataset was generously provided by [OList, the largest department store in Brazilian marketplaces](www.olist.com). OList connects small businesses from all over Brazil to channels without hassle and with a single contract. Those merchants are able to sell their products through the OList Store and ship them directly to the customers using OList logistics partners.
+This dataset was generously provided by [Olist, the largest department store in Brazilian marketplaces](www.olist.com). Olist connects small businesses from all over Brazil to channels without hassle and with a single contract. Those merchants are able to sell their products through the Olist Store and ship them directly to the customers using Olist logistics partners.
 
-After a customer purchases the product from OList Store a seller gets notified to fulfill that order. Once the customer receives the product, or the estimated delivery date is due, the customer gets a satisfaction survey by email where he can give a note for the purchase experience and write down some comments.
+After a customer purchases the product from Olist Store a seller gets notified to fulfill that order. Once the customer receives the product, or the estimated delivery date is due, the customer gets a satisfaction survey by email where he can give a note for the purchase experience and write down some comments.
 
 #### ⚠️ Attention
 1. An order might have multiple items.
@@ -109,7 +109,7 @@ This dataset includes customer satisfaction surveys gathered after we deliver th
 
 <details>
 
-After a customer purchases the product from OList Store a seller gets notified to fulfill that order. Once the customer receives the product, or the estimated delivery date is due, the customer gets a satisfaction survey by email where he can give a note for the purchase experience and write down some comments.
+After a customer purchases the product from Olist Store a seller gets notified to fulfill that order. Once the customer receives the product, or the estimated delivery date is due, the customer gets a satisfaction survey by email where he can give a note for the purchase experience and write down some comments.
 
 `review_id` | `order_id` | `review_score` | `review_comment_title` | `review_comment_message` | `review_creation_date` | `review_answer_timestamp`
 -- | -- | -- | -- | -- | -- | --
@@ -134,7 +134,7 @@ unique identifier of the order. | key to the customer dataset. Each order has a 
 
 ##### 📢 `olist_products_dataset.csv`
 
-This dataset includes detailed info about each product listing sold on OList.
+This dataset includes detailed info about each product listing sold on Olist.
 
 <details>
 
@@ -148,7 +148,7 @@ unique product identifier | root category of product, in Portuguese. | number of
 
 ##### 🏪 `olist_sellers_dataset.csv`
 
-This dataset includes data about the sellers that fulfilled orders made at OList. Use it to find the seller location and to identify which seller fulfilled each product.
+This dataset includes data about the sellers that fulfilled orders made at Olist. Use it to find the seller location and to identify which seller fulfilled each product.
 
 <details>
 
