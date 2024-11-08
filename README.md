@@ -20,9 +20,6 @@ A data analyst on your team pulled together the last few years of order, reviews
 
 Use the data to diagnose the issue: why are retailers churning? Use your best judgment to propose a solution, choosing from the team’s three options or inventing your own. Lay out the presentation that you’d give the OL team to explain the problem and your solution. Include a plan for the next six (6) weeks of product development and a conservative delivery date for the MVP.
 
-![data schema for orders](/images/data-schema-orders.png)
-![data schema for orders](/images/data-schema-marketing.png)
-
 ### Part 2
 
 Your engineering team just notified you that the db cluster lost data due to a misapplied migration. You’ve lost all address data for orders placed in the last 96 hours. A growing chorus of customers are logging into OL to print shipping labels … but are seeing an error instead. The OL engineering team says they can reconstruct the lost order data but they need three to five days to work through the problem with a 3rd party logistics vendor. How would you communicate this to users and what would you say, knowing sellers and buyers will both be disappointed? 
