@@ -41,9 +41,9 @@ We score your responses from 1-10 on multiple dimensions …
 
 measure | description | score
 -- | -- | -- 
-Curiosity | The candidate doesn’t accept easy answers. They find  surprising insights by asking *“why, why, why …”* a lot.  They ask more questions than other candidates during  the entire process. | [1-10]
-Flexibility | If you disagree with them, they get more pliant, not less  cooperative. They entertain multiple hypotheses at the  same time. | [1-10]
-Simplicity | Given a 50/50 option to add or remove detail, the  candidate prefers to remove. | [1-10]
+Curiosity | The candidate doesn’t accept easy answers. They find surprising insights by asking *“why, why, why …”* a lot. They ask more questions than other candidates during the entire process. | [1-10]
+Flexibility | If you disagree with them, they get more pliant, not less cooperative. They entertain multiple hypotheses at the same time. | [1-10]
+Simplicity | Given a 50/50 option to add or remove detail, the candidate prefers to remove. | [1-10]
 
 #### Skills
 measure | description | score
@@ -57,4 +57,4 @@ measure | description | score
 -- | -- | -- 
 Marketplace | The candidate has worked at a two-sided marketplace company. | [1-10]
 Artificial intelligence | They have built systems based on NLP, computer vision, fraud detection, LLMs, etc. | [1-10]
-Distributed teams | They’ve worked with a remote workforce before and done  well. | [1-10]
+Distributed teams | They’ve worked with a remote workforce before and done well. | [1-10]
