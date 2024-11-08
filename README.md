@@ -8,7 +8,7 @@ You are a product manager at [Olist (OL)](https://olist.com/), the leading e-com
 OL's core product is an online store-building tool that allows retailers to pick a custom domain, upload inventory, and manage shipping. New user growth has gradually slowed over the last year but end-user satisfaction is still high. More concerning is that over the last few months, customer churn is up 10% from last year, and there's no obvious change in the product or major bug to point to. 
 
 The top three options the team has come up with are … 
-1. Slowly phase out the on line store-building tool and start listing all vendor's products in one integrated online store run by OL, like Amazon.com
+1. Slowly phase out the online store-building tool and start listing all seller products in one integrated online store run by OL, like Amazon.com
 2. Offer discounted or free shipping to retailers to speed up their delivery times.
 3. Improve the OL reporting dashboard for customers that currently shows sales metrics like avg ticket size, order volume over time, most popular products, top referrer sites, etc.
 
@@ -24,7 +24,7 @@ Use the data to diagnose the issue: why are retailers churning? Use your best j
 
 Your engineering team just notified you that the db cluster lost data due to a misapplied migration. You’ve lost all address data for orders placed in the last 96 hours. A growing chorus of customers are logging into OL to print shipping labels … but are seeing an error instead. The OL engineering team says they can reconstruct the lost order data but they need three to five days to work through the problem with a 3rd party logistics vendor. How would you communicate this to users and what would you say, knowing sellers and buyers will both be disappointed? 
 
-<hr> 
+<br><br><br>
 
 ## Submission and scoring
 
